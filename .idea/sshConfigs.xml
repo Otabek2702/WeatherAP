@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-54-161-159-86.compute-1.amazonaws.com" id="ad1aa5fa-dcef-4b9e-83ba-87c5b50328af" keyPath="$PROJECT_DIR$/../Documents/webserver1.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
